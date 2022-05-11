@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tomphill/tailwind-ecommerce-layout/issues"
   },
-  "homepage": "https://github.com/tomphill/tailwind-ecommerce-layout#readme"
+  "homepage": "https://github.com/tomphill/tailwind-ecommerce-layout#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
 }
